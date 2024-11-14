@@ -1,4 +1,4 @@
-* **Título do Trabalho:** Trabalho Avaliativo Sistemas Operacionais
+#Trabalho Avaliativo Sistemas Operacionais#
 
 * **Integrantes:** \- Yuri Ayres de Paula | Pedro Sena Modernel | Nicolly Torra | Thaís Lodi   
     
