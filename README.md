@@ -124,6 +124,7 @@ Use o comando `startapp` do Django para criar um novo app. Substitua `nome_do_ap
 
 **Crie um Modelo para o Banco de Dados no arquivo models.py como no exemplo:**  
 <img src="/img/img4.png">
+
 **`Adicione o modelo ao admin em admin.py:`**  
 <img src="/img/img5.png">
 
